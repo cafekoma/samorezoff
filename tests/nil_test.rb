@@ -1,5 +1,4 @@
-require "minitest/autorun"
-require "nil"
+require "test_helper"
 
 class TestNil < MiniTest::Unit::TestCase
 

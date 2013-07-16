@@ -1,5 +1,4 @@
-require "minitest/autorun"
-require "reverse"
+require "test_helper"
 
 class TestReverse < MiniTest::Unit::TestCase
 

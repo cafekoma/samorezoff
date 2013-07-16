@@ -1,5 +1,4 @@
-require "minitest/autorun"
-require "blackjack"
+require "test_helper"
 
 class TestBlackjack < MiniTest::Unit::TestCase
 

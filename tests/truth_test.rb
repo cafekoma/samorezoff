@@ -1,5 +1,4 @@
-require "minitest/autorun"
-require "truth"
+require "test_helper"
 
 class TestTruth < MiniTest::Unit::TestCase
 

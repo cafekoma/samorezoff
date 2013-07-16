@@ -1,5 +1,4 @@
-require "minitest/autorun"
-require "map"
+require "test_helper"
 
 class TestMap < MiniTest::Unit::TestCase
 

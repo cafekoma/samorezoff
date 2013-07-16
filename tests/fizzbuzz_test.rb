@@ -1,5 +1,4 @@
-require "minitest/autorun"
-require "fizzbuzz"
+require "test_helper"
 
 class TestFizzbuzz < MiniTest::Unit::TestCase
 

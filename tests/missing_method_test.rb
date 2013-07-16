@@ -1,5 +1,4 @@
-require "minitest/autorun"
-require "missing_method"
+require "test_helper"
 
 class TestMissingMethod < MiniTest::Unit::TestCase
 

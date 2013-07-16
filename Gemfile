@@ -2,3 +2,6 @@
 source "https://rubygems.org"
 
 gem "rails"
+gem 'simplecov', :require => false, :group => :test
+gem 'coveralls', require: false
+gem 'pre-commit'

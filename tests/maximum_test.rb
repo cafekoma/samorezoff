@@ -1,5 +1,4 @@
-require "minitest/autorun"
-require "maximum"
+require "test_helper"
 
 class TestMaximum< MiniTest::Unit::TestCase
 

@@ -1,5 +1,4 @@
-require "minitest/autorun"
-require "hello_world"
+require "test_helper"
 
 class TestHelloWorld < MiniTest::Unit::TestCase
 
