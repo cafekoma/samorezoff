@@ -38,3 +38,6 @@ ehthumbs.db
 Thumbs.db
 Vagrantfile
 .vagrant
+
+# code coverage #
+coverage
