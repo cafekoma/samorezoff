@@ -40,4 +40,9 @@ Vagrantfile
 .vagrant
 
 # code coverage #
+#################
 coverage
+
+# sublime text 3 project file #
+###############################
+*.sublime-*
